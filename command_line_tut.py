@@ -12,6 +12,7 @@ python3 luck.py
 if python is not installed then you have to do like this
 apt-get install python3
 """
+
 """
 now for the command line argument 
 type the code dont do shitty copy and paste """
